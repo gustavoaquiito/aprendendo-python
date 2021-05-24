@@ -1,2 +1,3 @@
-n = str(input('Digite um número '))
-print(f'vocé digitou {n}')
+print('-' * 10)
+print('ola mundo')
+print('-' * 10)
